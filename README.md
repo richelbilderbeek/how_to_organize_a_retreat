@@ -1,9 +1,15 @@
 # how_to_organize_a_retreat
 
-How to organize a retreat, with the goal of teambuilding, using the academic literature.
+How to organize a retreat, with the goal of teambuilding, 
+using the academic literature.
 
-This is an academic literature search on how to organize a retreat
-and related matters.
+## Goal
+
+Answer the question 'How to organize a retreat, with the goal of improving the team?'
+using the academic literature.
+
+The first part will answers the questions surrounding 'How is a team improved?',
+the second part is how to organize a retreat to achieve this.
 
 ## An effective team: key characteristics
 
@@ -137,7 +143,6 @@ Approaches to team building:[Salas & Priest, 2004]:
  * [Bower, 2004] **Schedule informal talk**. Sufficient time should be allocated for participants to get to know each other in fun or active ways that are different to work place modes.
  * [Bower, 2004] **Integrate newcomers**. If the organization has held retreats before, then the early structured exercises will predominantly aim to integrate newcomers with previous participants.
  * [Bower, 2004] **Expect unexpected ideas**. Participants need to be aware that the thoughts and insights individuals experience during reflective activities can be unanticipated (adapted from Bower, Citation2004).
-
 
 ## References
 
