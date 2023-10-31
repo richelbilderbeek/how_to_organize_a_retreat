@@ -63,20 +63,21 @@ Conditions that optimize the effectiveness of the team [Hackman, 2002]:
 From [Stoller et al., 2004]:
 
 1. [Stoller et al., 2004] Challenging the process
-  * (a) Search out challenging opportunities to change, grow, innovate, and improve
-  * (b) Experiment, take risks, and learn from the accompanying mistakes
+ * (a) Search out challenging opportunities to change, grow, innovate, and improve
+ * (b) Experiment, take risks, and learn from the accompanying mistakes
 2. [Stoller et al., 2004] Inspiring a shared vision
-  * (a) Envision an uplifting and ennobling future
-  * (b) Enlist others in a common vision by appealing to their values, interests, hopes, and dreams
+ * (a) Envision an uplifting and ennobling future
+ * (b) Enlist others in a common vision by appealing
+   to their values, interests, hopes, and dreams
 3. [Stoller et al., 2004] Enabling others to act
-  * (a) Foster collaboration by promoting cooperative goals and building trust.
-  * (b) Strengthen people by giving power away, providing choice, developing competence, assigning critical tasks, and offering visible support.
+ * (a) Foster collaboration by promoting cooperative goals and building trust.
+ * (b) Strengthen people by giving power away, providing choice, developing competence, assigning critical tasks, and offering visible support.
 4. [Stoller et al., 2004] Modeling the way
-  * (a) Set the example by behaving in ways that are consistent with shared values.
-  * (b) Achieve small wins that promote consistent progress and build commitment.
+ * (a) Set the example by behaving in ways that are consistent with shared values.
+ * (b) Achieve small wins that promote consistent progress and build commitment.
 5. [Stoller et al., 2004] Encouraging the heart
-  * (a) Recognize individual contributions to the success of every project.
-  * (b) Celebrate team accomplishments regularly.
+ * (a) Recognize individual contributions to the success of every project.
+ * (b) Celebrate team accomplishments regularly.
 
 ## Team development stages
 
